@@ -10,5 +10,6 @@ npm-debug.*
 *.orig.*
 web-build/
 
+*.diff
 # macOS
 .DS_Store
